@@ -201,7 +201,8 @@ export function LoginForm() {
     <div className="flex min-h-screen items-center justify-center bg-background px-4">
       <div className="w-full max-w-md space-y-6">
         <div className="text-center">
-          <h1 className="text-3xl font-bold text-foreground">Social Mentor</h1>
+          <h1 className="text-3xl font-bold text-foreground">Social mentor - smart community donation and service platform</h1>
+           
           <p className="mt-2 text-sm text-muted-foreground">
             {isLogin ? "Sign in to access your dashboard" : "Create a new account"}
           </p>
